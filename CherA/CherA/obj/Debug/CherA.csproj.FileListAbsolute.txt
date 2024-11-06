@@ -1,0 +1,50 @@
+C:\Users\429191-20\Desktop\CherA\CherA\bin\Debug\CherA.exe.config
+C:\Users\429191-20\Desktop\CherA\CherA\bin\Debug\CherA.exe
+C:\Users\429191-20\Desktop\CherA\CherA\bin\Debug\CherA.pdb
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.csproj.AssemblyReference.cache
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.Properties.Resources.resources
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.csproj.GenerateResource.cache
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.csproj.CoreCompileInputs.cache
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.exe
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.pdb
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.Авторизация.resources
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.Добавление.resources
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.Проблема.resources
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.Запчасти.resources
+C:\Users\429191-20\Desktop\CherA\CherA\obj\Debug\CherA.СтатусЗаявки.resources
+H:\УП 02-01\CherA\CherA\bin\Debug\CherA.exe.config
+H:\УП 02-01\CherA\CherA\bin\Debug\CherA.exe
+H:\УП 02-01\CherA\CherA\bin\Debug\CherA.pdb
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.csproj.AssemblyReference.cache
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.Properties.Resources.resources
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.Авторизация.resources
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.Добавление.resources
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.csproj.GenerateResource.cache
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.csproj.CoreCompileInputs.cache
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.exe
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.pdb
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.Главная.resources
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.ЗАЯВКИ.resources
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.ИсторияВхода.resources
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.Редактирование.resources
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\bin\Debug\CherA.exe.config
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\bin\Debug\CherA.exe
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\bin\Debug\CherA.pdb
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.csproj.AssemblyReference.cache
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.csproj.SuggestedBindingRedirects.cache
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.Properties.Resources.resources
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.Авторизация.resources
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.Главная.resources
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.Добавление.resources
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.ЗАЯВКИ.resources
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.ИсторияВхода.resources
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.Редактирование.resources
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.csproj.GenerateResource.cache
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.csproj.CoreCompileInputs.cache
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.exe
+C:\Users\j8888\OneDrive\Рабочий стол\CherA\CherA\obj\Debug\CherA.pdb
+H:\УП 02-01\CherA\CherA\bin\Debug\CAPTCHA_lib.dll
+H:\УП 02-01\CherA\CherA\bin\Debug\CAPTCHA_lib.pdb
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.csproj.Up2Date
+H:\УП 02-01\CherA\CherA\obj\Debug\CherA.Опрос.resources
+H:\УП 02-01\CherA\CherA\bin\Debug\QRCoder.dll
